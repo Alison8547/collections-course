@@ -1,12 +1,18 @@
+map/ExemploTreeMap.java
+ map.ExemploTreeMap
+map/ExemploHashMap.java
+ map.ExemploHashMap
+set/ExemploHashSet.java
+ set.ExemploHashSet
 list/ExemploList.java
  list.ExemploList
 list/ExemploVector.java
  list.ExemploVector
-queue/ExemploLinkedList.java
- queue.ExemploLinkedList
-set/ExemploHashSet.java
- set.ExemploHashSet
 set/ExemploLinkedHashSet.java
  set.ExemploLinkedHashSet
 set/ExemploTreeSet.java
  set.ExemploTreeSet
+queue/ExemploLinkedList.java
+ queue.ExemploLinkedList
+map/ExemploHashTable.java
+ map.ExemploHashTable
