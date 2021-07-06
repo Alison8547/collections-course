@@ -16,3 +16,9 @@ queue/ExemploLinkedList.java
  queue.ExemploLinkedList
 map/ExemploHashTable.java
  map.ExemploHashTable
+comparators/EstudanteOrdemIdadeReversa.java
+ comparators.EstudanteOrdemIdadeReversa
+comparators/Estudante.java
+ comparators.Estudante
+comparators/ComparatorsExemploList.java
+ comparators.ComparatorsExemploList
